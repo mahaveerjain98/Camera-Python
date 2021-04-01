@@ -5,4 +5,4 @@ Basic use of Opencv Camera Functions
 - Slow Mo video 
 - Fast recorder
 - Filter images
-And added with Face Detection
+- And added with Face Detection
